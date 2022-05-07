@@ -4,3 +4,4 @@ Octo.tar.gz filter=lfs diff=lfs merge=lfs -text
 Gf12345_12111222_457_15.gz filter=lfs diff=lfs merge=lfs -text
 R1999999_10123123_1.gz filter=lfs diff=lfs merge=lfs -text
 largecomplex.tar.gz filter=lfs diff=lfs merge=lfs -text
+queen13.tar.gz filter=lfs diff=lfs merge=lfs -text
